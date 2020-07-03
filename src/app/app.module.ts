@@ -6,8 +6,8 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { SideNavComponent } from './Components/side-nav/side-nav.component';
 import { LoginComponent } from './Components/Authentication/login/login.component';
-import { EmployeesComponent } from './employees/employees.component';
-import { UsersComponent } from './users/users.component';
+import { EmployeesComponent } from './Components/employees/employees.component';
+import { UsersComponent } from './Components/users/users.component';
 
 @NgModule({
   declarations: [
